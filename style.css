@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #4a90e2, #50c878);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
